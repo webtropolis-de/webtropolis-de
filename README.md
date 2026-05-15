@@ -1,16 +1,27 @@
 # Hi, ich bin Eric
 
-Ich baue praxisnahe Tools rund um E-Commerce, Automatisierung und Datenpflege. Aktuell liegt mein Schwerpunkt auf Python, JavaScript, SQLite, API-Integrationen und kleinen Web-Tools, die echte Arbeitsprozesse vereinfachen.
+Ich baue praxisnahe Tools rund um E-Commerce, Automatisierung, Datenpflege und Eventbetrieb. Aktuell liegt mein Schwerpunkt auf Python, JavaScript, PHP, SQLite/MySQL, API-Integrationen und Web-Tools, die echte Arbeitsprozesse vereinfachen.
 
 ## Fokus
 
 - Fachinformatiker Anwendungsentwicklung in der Praxis
 - Python-Backends und SQLite-Workflows
+- PHP-/MySQL-Anwendungen für operative Plattformen
 - Vanilla-JavaScript-Tools und statische Web-Apps
 - E-Commerce-Prozesse mit plentyONE, Amazon und Datenqualität
 - Dokumentation, Automatisierung und interne Plattformen
 
-## Ausgewähltes Projekt
+## Ausgewählte Projekte
+
+### Nightmanager
+
+Ein privates Produktprojekt für Eventteams, Clubs und Veranstalter. Nightmanager bündelt Eventplanung, Gästelisten, Ticketing, Einlass-Scanner, Teamrollen, Marketing, Newsletter und Administration in einer webbasierten Oberfläche.
+
+- Status: aktive Entwicklung, Code nicht öffentlich
+- Tech: PHP, MySQL/MariaDB, JavaScript, CSS, PWA-nahe Scanner-Funktionen
+- Fokus: reale Abläufe im laufenden Eventbetrieb statt reiner Demo-Oberfläche
+- Beispiele: Eventverwaltung, Ticketversand, QR-Check-in, Rollenrechte, Newsletter-Kampagnen, WooCommerce-/Stripe-Anbindungen
+- Ziel: eine zentrale Schaltzentrale für Eventnächte, von Planung bis Nachbereitung
 
 ### Amazon FBA / FBM Rechner
 
@@ -24,7 +35,7 @@ Ein öffentliches Browser-Tool zur schnellen Kalkulation von Amazon FBA- und FBM
 ## Tech-Stack
 
 ```text
-Python · JavaScript · HTML · CSS · SQLite · Git · GitHub Pages · REST APIs
+Python · PHP · JavaScript · HTML · CSS · SQLite · MySQL · Git · GitHub Pages · REST APIs
 ```
 
 ## Was mir wichtig ist
