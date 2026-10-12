@@ -28,20 +28,20 @@ Ich entwickle **Webanwendungen, macOS-Tools und lokale KI-Anwendungen** – mit 
 
 **Vom Ticketkauf bis zum Einlass.**
 
-[![Freigestellte Nachtmanager-Handys: Verkauf, Meine Tickets und Check-in](assets/nightmanager-mobile.png)](assets/nightmanager-mobile.png)
+[![Freigestellte Nachtmanager-Handys: Verkauf, Meine Tickets und Check-in](assets/nightmanager-mobile.png)](https://raw.githubusercontent.com/webtropolis-de/webtropolis-de/main/assets/nightmanager-mobile.png)
 
 **Einblicke ins System** · Bilder zum Vergrößern anklicken
 
-[![Nachtmanager – Eventplanung im Grün-Stil mit fiktiven Beispieldaten](assets/nightmanager-event.png)](assets/nightmanager-event.png)
+[![Nachtmanager – Eventplanung im Grün-Stil mit fiktiven Beispieldaten](assets/nightmanager-event.png)](https://raw.githubusercontent.com/webtropolis-de/webtropolis-de/main/assets/nightmanager-event.png)
 
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="assets/nightmanager-sales.png"><img src="assets/nightmanager-sales.png" alt="Nachtmanager – Ticketverkauf mit Verkaufsphasen und Beständen" width="420"></a>
+<a href="https://raw.githubusercontent.com/webtropolis-de/webtropolis-de/main/assets/nightmanager-sales.png"><img src="assets/nightmanager-sales.png" alt="Nachtmanager – Ticketverkauf mit Verkaufsphasen und Beständen" width="420"></a>
 <strong>Ticketverkauf</strong>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="assets/nightmanager-shop.png"><img src="assets/nightmanager-shop.png" alt="Nachtmanager – öffentlicher Ticketshop" width="420"></a>
+<a href="https://raw.githubusercontent.com/webtropolis-de/webtropolis-de/main/assets/nightmanager-shop.png"><img src="assets/nightmanager-shop.png" alt="Nachtmanager – öffentlicher Ticketshop" width="420"></a>
 <strong>Ticketshop</strong>
 </td>
 </tr>
