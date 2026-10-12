@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Eric – Angehender Fachinformatiker für Anwendungsentwicklung. Web, macOS und lokale KI.">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c30"/><stop offset="1" stop-color="#102d36"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7dd3fc" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="240" rx="18" fill="url(#bg)"/><rect width="1200" height="240" rx="18" fill="url(#grid)"/>
+<rect x="46" y="43" width="4" height="151" rx="2" fill="#67e8c7"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+<text x="76" y="66" fill="#67e8c7" font-size="13" font-weight="600" letter-spacing="3">WEB · macOS · LOKALE KI</text>
+<text x="73" y="130" fill="#f8fafc" font-size="58" font-weight="750">Hi, ich bin Eric.</text>
+<text x="76" y="171" fill="#b6c8d9" font-size="21">Angehender Fachinformatiker für Anwendungsentwicklung</text>
+<text x="76" y="202" fill="#93aebe" font-size="16">Software aus der Praxis. Vom ersten Entwurf bis zum Betrieb.</text>
+</g>
+<g transform="translate(945 62)" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect width="180" height="116" rx="12" fill="#0b1728" stroke="#30485a"/><path d="M0 29H180" stroke="#30485a"/><circle cx="15" cy="15" r="3" fill="#67e8c7" stroke="none"/><circle cx="28" cy="15" r="3" fill="#5a8098" stroke="none"/><circle cx="41" cy="15" r="3" fill="#5a8098" stroke="none"/><path d="m57 53-20 18 20 18m67-36 20 18-20 18m-22-43-22 50" stroke="#67e8c7"/></g>
+</svg>
