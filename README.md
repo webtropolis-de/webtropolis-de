@@ -28,14 +28,24 @@ Ich entwickle **Webanwendungen, macOS-Tools und lokale KI-Anwendungen** – mit 
 
 **Vom Ticketkauf bis zum Einlass.**
 
-[![Drei mobile Nachtmanager-Ansichten: Ticketkauf, Meine Tickets und bestätigter Einlass – mit fiktiven Beispieldaten](assets/nightmanager-mobile.png)](https://n8manager.de/#mobil)
+[![Freigestellte Nachtmanager-Handys: Verkauf, Meine Tickets und Check-in](assets/nightmanager-mobile.png)](assets/nightmanager-mobile.png)
 
-<details>
-<summary>Auch auf dem Desktop: Eventübersicht ansehen</summary>
+**Einblicke ins System** · Bilder zum Vergrößern anklicken
 
-[![Nachtmanager – Eventansicht mit fiktiven Beispieldaten](assets/nightmanager-app.png)](https://n8manager.de/)
+[![Nachtmanager – Eventplanung im Grün-Stil mit fiktiven Beispieldaten](assets/nightmanager-event.png)](assets/nightmanager-event.png)
 
-</details>
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="assets/nightmanager-sales.png"><img src="assets/nightmanager-sales.png" alt="Nachtmanager – Ticketverkauf mit Verkaufsphasen und Beständen" width="420"></a>
+<strong>Ticketverkauf</strong>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="assets/nightmanager-shop.png"><img src="assets/nightmanager-shop.png" alt="Nachtmanager – öffentlicher Ticketshop" width="420"></a>
+<strong>Ticketshop</strong>
+</td>
+</tr>
+</table>
 
 **PHP · MySQL/MariaDB · JavaScript · Stripe-Webhooks**<br>
 [Produktwebsite ↗](https://n8manager.de/) · Aktive Weiterentwicklung · Quellcode privat

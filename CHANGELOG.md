@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-10-12 – Transparente Handyvorschau und grüne Systemgalerie
+
+- Ziel: die Handyansichten ohne beigefarbenen Hintergrund präsentieren und weitere Systemansichten zeigen.
+- Umsetzung: Originalbilder mit HTML/CSS als transparente PNG-Vorschau neu gerendert; Labels Verkauf, Meine Tickets und Check-in ergänzt. Eventplanung, Ticketverkauf und Ticketshop in dunkelgrünen Rahmen als klickbare Galerie eingebaut. GitHub-README unterstützt keinen JavaScript-Slider.
+- Dateien: README.md, assets/nightmanager-mobile.png, assets/nightmanager-event.png, assets/nightmanager-sales.png, assets/nightmanager-shop.png, assets/nightmanager-source/*, tools/render-nightmanager-media.cjs, CHANGELOG.md.
+- Medienherkunft: unveränderte Original-Produktbilder mit fiktiven Beispieldaten aus N8 Manager Website/site/assets/product. Rendering-Skript und Quellbilder ermöglichen die erneute Erzeugung; der PLAYWRIGHT_MODULE-Parameter kann auf eine vorhandene Playwright-Installation verweisen.
+- Validierung: Rendering ausgeführt, Skript-Syntax geprüft, PNG-Alpha-Kanal mit transparentem Außenbereich bestätigt, Medien visuell geprüft, GitHub-Markdown und Bildverweise geprüft; git diff --check vor Veröffentlichung. Browserprüfung auf GitHub auf Desktop, mobil und im Dark Theme nach Veröffentlichung.
+- Live-Risiko: ausschließlich öffentliche Portfolio-Dokumentation; keine Änderung an Anwendungen oder Infrastruktur.
+- Rollback: Galerie-Commit mit git revert zurücknehmen; vorheriger veröffentlichter Stand ist 75084c0.
+
 ## 2026-10-12 – Drei mobile Nachtmanager-Ansichten hervorgehoben
 
 - Ziel: den Ablauf vom Ticketkauf bis zum Einlass oben im Nachtmanager-Abschnitt sichtbar machen.
