@@ -10,7 +10,7 @@ const asset = (file) => {
 };
 const base = `<meta charset="utf-8"><style>
 *{box-sizing:border-box}html,body{margin:0;background:transparent;font-family:Arial,Helvetica,sans-serif}
-figure{margin:0}img{display:block} 
+figure{margin:0}img{display:block}
 .mobile{width:1440px;padding:48px 80px 56px;display:flex;justify-content:space-between;gap:80px}
 .mobile figure{width:340px;text-align:center}
 .phone{width:280px;margin:auto;padding:8px;background:#25252b;border:1px solid #68686c;border-radius:34px;box-shadow:0 18px 32px #071c1928}
