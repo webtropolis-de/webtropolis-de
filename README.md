@@ -26,7 +26,16 @@ Ich entwickle **Webanwendungen, macOS-Tools und lokale KI-Anwendungen** – mit 
 
 **Eventplanung, Ticketverkauf und Einlass in einer Plattform.** Gästelisten, QR-Check-in, Stripe-/WooCommerce-Anbindung, Teamchat, Aufgaben und Newsletter – ergänzt um Rollenrechte, Monitoring und Backups.
 
+**Vom Ticketkauf bis zum Einlass.**
+
+[![Drei mobile Nachtmanager-Ansichten: Ticketkauf, Meine Tickets und bestätigter Einlass – mit fiktiven Beispieldaten](assets/nightmanager-mobile.png)](https://n8manager.de/#mobil)
+
+<details>
+<summary>Auch auf dem Desktop: Eventübersicht ansehen</summary>
+
 [![Nachtmanager – Eventansicht mit fiktiven Beispieldaten](assets/nightmanager-app.png)](https://n8manager.de/)
+
+</details>
 
 **PHP · MySQL/MariaDB · JavaScript · Stripe-Webhooks**<br>
 [Produktwebsite ↗](https://n8manager.de/) · Aktive Weiterentwicklung · Quellcode privat

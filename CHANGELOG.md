@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-10-12 – Drei mobile Nachtmanager-Ansichten hervorgehoben
+
+- Ziel: den Ablauf vom Ticketkauf bis zum Einlass oben im Nachtmanager-Abschnitt sichtbar machen.
+- Umsetzung: zusammenhängende Vorschau der drei Smartphone-Ansichten von der öffentlichen Produktwebsite eingebaut und verlinkt. Desktop-Ansicht bleibt aufklappbar erhalten.
+- Dateien: README.md, assets/nightmanager-mobile.png, CHANGELOG.md.
+- Validierung: Vorschau aus dem lokalen Original-Website-Abschnitt mit vollständig geladenen Originalbildern aufgenommen, visuell geprüft; git diff --check vor Veröffentlichung; Bilddarstellung und Breite nach Veröffentlichung direkt auf GitHub prüfen.
+- Live-Risiko: ausschließlich redaktionelle Profiländerung; alle gezeigten Kundendaten sind fiktive Beispieldaten aus den vorhandenen Website-Medien.
+- Rollback: diesen Commit mit git revert zurücknehmen; vorheriger veröffentlichter Stand ist 814f583.
+
 ## 2026-10-12 – Visuelles Portfolio und kürzere Projekttexte
 
 - Ziel: das GitHub-Profil schneller erfassbar machen und Anwendungen visuell zeigen.
