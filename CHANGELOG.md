@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-10-12 – Produktbilder auf den aktuellen UI-Stand gebracht
+
+- Ziel: Die aktuelle Event-Home- und Ticketing-Oberfläche im Portfolio zeigen. Website zuerst unter n8manager.de veröffentlicht und mit 17 HTTP-/Hash-Prüfungen sowie 20 responsiven Ansichten geprüft; erst danach diese GitHub-Bilder aktualisiert.
+- Umsetzung: Sechs neue Quellaufnahmen aus der veröffentlichten Website übernommen. Transparente Handygruppe mit Verkauf, Meine Tickets und Check-in neu gerendert; grüne Event-Home-, Ticketverkauf- und Shop-Galerie neu erzeugt. Höhe der Event-Home-Karte folgt dem vollständigen Screenshot, damit Diagramm und Kontingent nicht abgeschnitten werden. Stand und Beispieldaten in der README kenntlich gemacht.
+- Herkunft: Aktuelle Produktseiten mit ausschließlich lokal verfremdeten Nachtwerk-Beispieldaten. Kundenportal mit aktuellem Template-Markup/CSS lokal dargestellt; Scanner-Erfolg ist ein lokaler Beispielzustand. Keine echten Kundentickets, Check-ins oder Bestellungen ausgelöst.
+- Dateien: README.md, CHANGELOG.md, tools/render-nightmanager-media.cjs, assets/nightmanager-app.png, assets/nightmanager-source/*, assets/nightmanager-{mobile,event,sales,shop}.png.
+- Validierung: Skript-Syntax, vollständiges Rendering, Sichtprüfung, PNG-Transparenz und Quellbildabgleich; git diff --check. Öffentliche GitHub-Darstellung nach dem Push auf Desktop, mobil und im Dark Theme prüfen.
+- Live-Risiko: ausschließlich öffentliche Portfolio-Medien und Dokumentation. Rollback: diesen Commit mit git revert zurücknehmen; vorheriger Stand 9318cfb.
+
 ## 2026-10-12 – Transparente Handyvorschau und grüne Systemgalerie
 
 - Ziel: die Handyansichten ohne beigefarbenen Hintergrund präsentieren und weitere Systemansichten zeigen.

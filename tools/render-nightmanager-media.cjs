@@ -17,7 +17,7 @@ figure{margin:0}img{display:block}
 .phone img{width:100%;height:auto;border-radius:26px}
 .mobile figcaption{display:inline-flex;align-items:center;gap:12px;margin-top:32px;padding:13px 22px;border:1px solid #346556;border-radius:30px;background:#153d33;color:#e9fff5;font-size:23px;font-weight:700}
 .mobile figcaption span{color:#8fe4bb;font-size:16px}
-.desktop{width:1440px;height:750px;padding:50px 60px;background:linear-gradient(125deg,#103d32,#194e3d 60%,#256049);border-radius:24px;color:#effff8;overflow:hidden}
+.desktop{width:1440px;min-height:750px;padding:50px 60px;background:linear-gradient(125deg,#103d32,#194e3d 60%,#256049);border-radius:24px;color:#effff8;overflow:hidden}
 .eyebrow{font-size:15px;letter-spacing:3px;color:#a9e8c9;font-weight:700;margin:0 0 12px}
 h1{font-size:42px;line-height:1.15;margin:0 0 28px;letter-spacing:-1px}
 .window{border:1px solid #6fa68c;border-radius:14px;overflow:hidden;background:#0b1511;box-shadow:0 24px 44px #001c1b60}
@@ -43,7 +43,7 @@ const desktop = (title, file, caption, extra = '') => extra === 'shop'
     const page = await browser.newPage({ viewport: { width: 1440, height: 1200 }, deviceScaleFactor: 1.5 });
     for (const [name, html, selector, transparent] of [
       ['nightmanager-mobile.png', mobile, '.mobile', true],
-      ['nightmanager-event.png', desktop('Eventplanung', 'nightmanager-app.png', 'Events · Gästelisten · Check-in · Team'), '.desktop', false],
+      ['nightmanager-event.png', desktop('Event Home', 'nightmanager-app.png', 'Verkaufsverlauf · Kontingente · Gästelisten · Check-in'), '.desktop', false],
       ['nightmanager-sales.png', desktop('Ticketverkauf', 'nightmanager-source/desktop-sales.png', 'Ticketarten · Verkaufsphasen · Bestände'), '.desktop', false],
       ['nightmanager-shop.png', desktop('Ticketshop', 'nightmanager-source/desktop-shop.png', 'Ticketwahl · Kundenportal · Zahlung', 'shop'), '.desktop', false],
     ]) {

@@ -32,7 +32,9 @@ Ich entwickle **Webanwendungen, macOS-Tools und lokale KI-Anwendungen** – mit 
 
 **Einblicke ins System** · Bilder zum Vergrößern anklicken
 
-[![Nachtmanager – Eventplanung im Grün-Stil mit fiktiven Beispieldaten](assets/nightmanager-event.png)](https://raw.githubusercontent.com/webtropolis-de/webtropolis-de/main/assets/nightmanager-event.png)
+<sub>Aktuelle Oberfläche · Oktober 2026 · Darstellung mit fiktiven Beispieldaten</sub>
+
+[![Nachtmanager – aktuelle Event-Home-Ansicht im Grün-Stil mit fiktiven Beispieldaten](assets/nightmanager-event.png)](https://raw.githubusercontent.com/webtropolis-de/webtropolis-de/main/assets/nightmanager-event.png)
 
 <table>
 <tr>
